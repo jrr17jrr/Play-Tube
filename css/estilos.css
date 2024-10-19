@@ -193,32 +193,32 @@ body {
     content: url(../img/menu/thumb_up_alt.png);
 }
 
-.icone__alura::before {
-    content: url(../img/menu/Avatar_Alura.png);
+.icone__aqueles_caras::before {
+    content: url(../img/menu/aqueles_caras-menu.jpg);
 }
 
-.icone__gaveta::before {
-    content: url(../img/menu/Avatar_Gaveta.png);
+.icone__caze::before {
+    content: url(../img/menu/caze-tv-menu.jpg);
 }
 
-.icone__ballerini::before {
-    content: url(../img/menu/Avatar_Rafa.png);
+.icone__orochi::before {
+    content: url(../img/menu/orochi-menu.jpg);
 }
 
-.icone__iamarino::before {
-    content: url(../img/menu/Avatar_Atila.png);
+.icone__30praum::before {
+    content: url(../img/menu/30praum-menu.jpg);
 }
 
-.icone__souto::before {
-    content: url(../img/menu/Avatar_Souto.png);
+.icone__veigh::before {
+    content: url(../img/menu/veigh-menu.jpg);
 }
 
-.icone__nerd::before {
-    content: url(../img/menu/Avatar_Jovem_Nerd.png);
+.icone__voce_sabia::before {
+    content: url(../img/menu/voce_sabia-menu.jpg);
 }
 
-.icone__deschamps::before {
-    content: url(../img/menu/Avatar_Deschamps.png);
+.icone__curso_em_video::before {
+    content: url(../img/menu/curso-em-video-menu.jpg);
 }
 
 .icone__mostrar::before {
