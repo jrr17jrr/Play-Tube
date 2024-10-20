@@ -79,6 +79,10 @@
     flex-grow: 1;
 }
 
+.videos__item_2{
+    display: block !important;
+}
+
 /* DESCRIÇÃO VIDEOS */
 
 .descricao-video {
@@ -195,4 +199,13 @@
         }
 
     }
+
+    @media(min-width: 1698px) {
+    
+        .videos__item_2{
+            display: none!important;
+        }
+
+    }
+
     
